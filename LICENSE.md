@@ -620,7 +620,7 @@ copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
 
-    {one line to give the program's name and a brief idea of what it does.}
+    Triplenox.io Website Source Code
     Copyright (C) 2014 Matthew Chambers (Triplenox)
 
     This program is free software: you can redistribute it and/or modify
