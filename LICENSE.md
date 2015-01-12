@@ -620,5 +620,6 @@ copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
 
-    DeriviusMC Network Public Plugins & Projects
-    Copyright (C) 2015 DeriviusMC Network
+      Triplenox.io Website Source Code
+     Copyright (C) 2014 Matthew Chambers (Triplenox)
+  
